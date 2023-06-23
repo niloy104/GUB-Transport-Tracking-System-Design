@@ -1,6 +1,6 @@
 # GUB Transport Tracking System
 
-This repository contains the source code and documentation for the GUB Transport Tracking System. The system is designed to provide real-time tracking of university buses and enhance the transportation experience within the Green University of Bangladesh (GUB) campus. It also facilitates emergency response and safety measures, as well as data analysis for future planning.
+This repository contains the  LaTeX source code [(click here)](https://www.overleaf.com/read/vfkvnnywsrxv) and documentation for the GUB Transport Tracking System. The system is designed to provide real-time tracking of university buses and enhance the transportation experience within the Green University of Bangladesh (GUB) campus. It also facilitates emergency response and safety measures, as well as data analysis for future planning.
 
 ## Table of Contents
 
@@ -72,6 +72,6 @@ The scope of future work includes enhancing the user interface and experience, i
 For any questions, suggestions, or inquiries regarding this project, please feel free to contact the project team via the following channels:
 
 - Email: [manzurul104@gmail.com](manzurul104@gmail.com)
-- Likidin: [niloy104]((https://www.linkedin.com/in/niloy104/))
+- Likidin: [Md.Manzurul Alam](https://www.linkedin.com/in/niloy104/)
 
 We appreciate your interest in the GUB Transport Tracking System and look forward to hearing from you!
