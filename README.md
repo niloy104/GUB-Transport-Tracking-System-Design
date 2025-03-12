@@ -11,7 +11,6 @@ This repository contains the  LaTeX source code [(click here)](https://www.overl
 - [Conclusion](#conclusion)
 - [Limitations](#limitations)
 - [Scope of Future Work](#scope-of-future-work)
-- [License](#license)
 - [Contact](#contact)
 
 ## Overview
